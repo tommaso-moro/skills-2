@@ -26,6 +26,12 @@ You can stay up to date with my skills here:
 npx skills@latest add emilkowalski/skills
 ```
 
+Or install them with the GitHub CLI:
+
+```bash
+gh skill install emilkowalski/skills
+```
+
 Every skill page at [aiforui.dev/skills](https://aiforui.dev/skills) shows when to use the skill, an example of the result, and prompts to try.
 
 ## Why use it?
